@@ -18,18 +18,26 @@ I’m a final-year B.Tech CSE student at **KIIT Deemed to be University**, passi
 - **Version Control:** Git & GitHub
 ---
 
+🌱 I’m currently learning **Full Stack Web Development**
+
+ 👯 I’m looking to collaborate on **Anything Python**
+
+---
+
 📊 **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deepsikhadas05&show_icons=true&theme=radical" alt="Deepsikha's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepsikhadas05&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </p>
 
 ---
----
-- 🌱 I’m currently learning **Full Stack Web Development**
-- 👯 I’m looking to collaborate on **Anything Python**
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
+
+📫 **How to reach me..**
+- 💼 [LinkedIn](https://www.linkedin.com/in/deepsikha-das-347976253)
+- 🌐 Portfolio: Coming Soon
+- 📧 Email: deepsikha1104@gmail.com
+- 📱 Instagram: @deepsikhadas._
+
+---
+**☀️ Always learning. Always building. Always evolving.**
