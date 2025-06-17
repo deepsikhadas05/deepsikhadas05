@@ -27,7 +27,7 @@ I’m a final-year B.Tech CSE student at **KIIT Deemed to be University**, passi
 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepsikhadas05&show_icons=true&theme=radical" alt="Deepsikha's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepsikhada05&show_icons=true&theme=radical" alt="Deepsikha's GitHub stats" />
 </p>
 
 ---
