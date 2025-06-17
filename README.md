@@ -10,7 +10,7 @@ I’m a final-year B.Tech CSE student at **KIIT Deemed to be University**, passi
 ---
 
 🛠️ **Skills & Tools**  
-- **Languages:** Python, Java, C, C# SQL, JavaScript  
+- **Languages:** Python, Java, C, C#, SQL, HTML, CSS, JavaScript  
 - **Domains:** AI/ML, Data Science, 
 - **Frameworks & Tools:** Flask, Pandas, NumPy, Scikit-learn 
 - **Databases:** MySQL,
