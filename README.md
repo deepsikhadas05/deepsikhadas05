@@ -1,16 +1,16 @@
 ## Hi there, I'm Deepsikha Das 👋
 <p align="left">
-  <em>Final Year CS Student | ML Enthusiast | Full-Stack Learner | AWS Cloud Explorer</em>
+  <em>CSE Undergrad | AI/ML Builder | Data Science leaner | AWS Cloud Explorer</em>
 </p>
 
 🎓**About Me**
 
-I’m a final-year B.Tech CSE student at **KIIT Deemed to be University**, passionate about building intelligent systems and solving real-world problems using technology. I have a deep interest in **Machine Learning**, **Artificial Intelligence**, and **Cloud Computing**.
+I’m a B.Tech CSE undergrad, class of 26' at **KIIT Deemed to be University**, passionate about building intelligent systems and solving real-world problems using technology. I have a deep interest in **Machine Learning**, **Artificial Intelligence**, **Cloud Infrastructure** and all things **Data**.
 
 ---
 
 🛠️ **Skills & Tools**  
-- **Languages:** Python, Java, C, C#, SQL, HTML, CSS, JavaScript  
+- **Languages:** Python, Java, C, Powershell, SQL, HTML, CSS, JavaScript  
 - **Domains:** AI/ML, Data Science
 - **Frameworks & Tools:** Flask, Pandas, NumPy, Scikit-learn 
 - **Databases:** MySQL
@@ -18,7 +18,7 @@ I’m a final-year B.Tech CSE student at **KIIT Deemed to be University**, passi
 - **Version Control:** Git & GitHub
 ---
 
-🌱 I’m currently learning **Full Stack Web Development**
+🌱 I’m currently learning **Agentic-AI**
 
  👯 I’m looking to collaborate on **Anything Python**
 
@@ -36,7 +36,7 @@ I’m a final-year B.Tech CSE student at **KIIT Deemed to be University**, passi
 
 📫 **How to reach me..**
 - 💼 [LinkedIn](https://www.linkedin.com/in/deepsikha-das-347976253)
-- 🌐 Portfolio: Coming Soon
+- 🌐 Portfolio: Coming Soon...
 - 📧 Email: deepsikha1104@gmail.com
 - 📱 Instagram: @deepsikhadas._
 
