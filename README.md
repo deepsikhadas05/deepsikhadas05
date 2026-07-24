@@ -27,8 +27,8 @@ I’m a B.Tech CSE undergrad, class of 26' at **KIIT Deemed to be University**, 
 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepsikhadas05&show_icons=true&theme=radical" alt="Deepsikha's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepsikhadas05&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=deepsikhadas05&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=deepsikhadas05&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -36,7 +36,7 @@ I’m a B.Tech CSE undergrad, class of 26' at **KIIT Deemed to be University**, 
 
 📫 **How to reach me..**
 - 💼 [LinkedIn](https://www.linkedin.com/in/deepsikha-das-347976253)
-- 🌐 Portfolio: Coming Soon...
+- 🌐 Portfolio: https://deepsikha-das.vercel.app/
 - 📧 Email: deepsikha1104@gmail.com
 - 📱 Instagram: @deepsikhadas._
 
